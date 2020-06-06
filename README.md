@@ -1,4 +1,4 @@
-# Cardiac-Arrhythmia-Prediction-and-Classification-using-Python
+# Cardiac-Arrhythmia-Prediction-and-Classification
 In this project, my teammates and I designed a deep learning model that takes inpatient records and determines whether a patient suffers from cardiac arrhythmia or not. 
 The model also classifies the patient records into various classes. The multiple classifications being the type of arrhythmia. 
 Over the timeline of the project, we tried implementing various machine learning algorithms. But in the end, we settled on neural networks. 
